@@ -1,4 +1,4 @@
-THis is a file to playwith
+This is a file to playwith
 There are some ERRORsd in it
-Some will fixed be in one branch
+Some will be fixed in one branch
 some others in an toher
